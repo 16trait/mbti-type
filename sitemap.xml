@@ -2189,10 +2189,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/sv/type/enfp-dr</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/sv/type/enfj-dv</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -2218,10 +2214,6 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/sv/type/infp-mr</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
-    <loc>https://mbti-type.pages.dev/sv/type/infp-dr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2329,6 +2321,14 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
+    <loc>https://mbti-type.pages.dev/sv/type/infp-dr</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/sv/type/enfp-dr</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/intj</loc>
     <lastmod>2026-04-05</lastmod>
   </url>
@@ -2366,10 +2366,6 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/intp-mv</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
-    <loc>https://mbti-type.pages.dev/zh-hk/type/intp-mr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2542,6 +2538,10 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/esfj</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/zh-hk/type/intp-mr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
 </urlset>
