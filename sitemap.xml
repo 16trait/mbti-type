@@ -1729,10 +1729,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/pl/type/enfp-mv</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/pl/type/enfp-mr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -1742,10 +1738,6 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/pl/type/enfj</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
-    <loc>https://mbti-type.pages.dev/pl/type/enfj-dv</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -1878,6 +1870,14 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/pl/type/entp-mr</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/pl/type/enfj-dv</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/pl/type/enfp-mv</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2041,10 +2041,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/pt/type/istj-mr</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/pt/type/istj-dr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -2102,6 +2098,10 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/pt/type/infp-dv</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/pt/type/istj-mr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2501,10 +2501,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/zh-hk/type/isfj-mv</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/isfj-dr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -2543,5 +2539,9 @@
   <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/intj-dv</loc>
     <lastmod>2026-04-05</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/zh-hk/type/isfj-mv</loc>
+    <lastmod>2026-04-08</lastmod>
   </url>
 </urlset>
