@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mbti-type.pages.dev/sitemap.xml
