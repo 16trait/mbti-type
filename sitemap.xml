@@ -1717,10 +1717,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/pl/type/enfp</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/pl/type/enfp-mr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -1881,6 +1877,10 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
+    <loc>https://mbti-type.pages.dev/pl/type/enfp</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
     <loc>https://mbti-type.pages.dev/pt/type/intj</loc>
     <lastmod>2026-04-05</lastmod>
   </url>
@@ -1906,10 +1906,6 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/pt/type/entj-mr</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
-    <loc>https://mbti-type.pages.dev/pt/type/entj-dr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2049,10 +2045,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/pt/type/isfj-mr</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/pt/type/isfj-dr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -2105,6 +2097,14 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
+    <loc>https://mbti-type.pages.dev/pt/type/entj-dr</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/pt/type/isfj-mr</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
     <loc>https://mbti-type.pages.dev/sv/type/entp-dr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -2150,10 +2150,6 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/sv/type/intp-mv</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
-    <loc>https://mbti-type.pages.dev/sv/type/intp-mr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2326,6 +2322,10 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/sv/type/esfj</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/sv/type/intp-mr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
