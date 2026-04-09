@@ -217,10 +217,6 @@
     <lastmod>2026-04-09</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/de/type/esfp-mr</loc>
-    <lastmod>2026-04-09</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/de/type/esfp-dr</loc>
     <lastmod>2026-04-09</lastmod>
   </url>
@@ -1753,10 +1749,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/pl/type/istj-mv</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/pl/type/istj-mr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -1910,6 +1902,10 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/pl/type/intp-mv</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/pl/type/istj-mv</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2177,10 +2173,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/sv/type/infj</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/sv/type/infj-dv</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -2190,10 +2182,6 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/sv/type/infj-mr</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
-    <loc>https://mbti-type.pages.dev/sv/type/enfp-mv</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2230,10 +2218,6 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/sv/type/estj-dv</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
-    <loc>https://mbti-type.pages.dev/sv/type/estj-mv</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -2358,6 +2342,18 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/sv/type/enfj-mv</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/sv/type/infj</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/sv/type/estj-mv</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/sv/type/enfp-mv</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
