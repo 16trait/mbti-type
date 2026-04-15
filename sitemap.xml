@@ -3157,10 +3157,6 @@
     <lastmod>2026-04-11</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/zh-hk/type/estp-dr</loc>
-    <lastmod>2026-04-11</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/isfp</loc>
     <lastmod>2026-04-11</lastmod>
   </url>
@@ -3419,5 +3415,9 @@
   <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/estj-dr</loc>
     <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/zh-hk/type/estp-dr</loc>
+    <lastmod>2026-04-11</lastmod>
   </url>
 </urlset>
