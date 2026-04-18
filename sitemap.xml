@@ -873,10 +873,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/es/type/istj-mr</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/es/type/istj-dr</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -1497,10 +1493,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/it/type/intj</loc>
-    <lastmod>2026-04-05</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/it/type/infj</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -1551,6 +1543,10 @@
   <url>
     <loc>https://mbti-type.pages.dev/it/type/infp</loc>
     <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/it/type/intj</loc>
+    <lastmod>2026-04-05</lastmod>
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/ja-jp/type/enfp-dr</loc>
@@ -2173,10 +2169,6 @@
     <lastmod>2026-04-05</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/ko-kr/type/estj</loc>
-    <lastmod>2026-04-08</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/ko-kr/type/istj</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
@@ -2190,6 +2182,10 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/ko-kr/type/infj</loc>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/ko-kr/type/estj</loc>
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
@@ -3133,10 +3129,6 @@
     <lastmod>2026-04-05</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/sv/type/estj</loc>
-    <lastmod>2026-04-16</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/sv/type/esfp</loc>
     <lastmod>2026-04-11</lastmod>
   </url>
@@ -3151,6 +3143,10 @@
   <url>
     <loc>https://mbti-type.pages.dev/sv/type/infp</loc>
     <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/sv/type/estj</loc>
+    <lastmod>2026-04-16</lastmod>
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/enfp-mv</loc>
