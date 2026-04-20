@@ -1358,7 +1358,7 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/it/type/entp-dr</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-20</lastmod>
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/it/type/entj-dr</loc>
@@ -1529,10 +1529,6 @@
     <lastmod>2026-04-08</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/ja-jp/type/esfp-mv</loc>
-    <lastmod>2026-04-10</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/ja-jp/type/estp-dv</loc>
     <lastmod>2026-04-10</lastmod>
   </url>
@@ -1583,10 +1579,6 @@
   <url>
     <loc>https://mbti-type.pages.dev/ja-jp/type/esfj-mr</loc>
     <lastmod>2026-04-20</lastmod>
-  </url>
-  <url>
-    <loc>https://mbti-type.pages.dev/ja-jp/type/infp-dr</loc>
-    <lastmod>2026-04-17</lastmod>
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/ja-jp/type/enfp-mr</loc>
@@ -1654,7 +1646,7 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/ja-jp/type/isfp-dv</loc>
-    <lastmod>2026-04-10</lastmod>
+    <lastmod>2026-04-20</lastmod>
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/ja-jp/type/istp-dv</loc>
@@ -1763,6 +1755,14 @@
   <url>
     <loc>https://mbti-type.pages.dev/ja-jp/type/entj</loc>
     <lastmod>2026-04-20</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/ja-jp/type/infp-dr</loc>
+    <lastmod>2026-04-20</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/ja-jp/type/esfp-mv</loc>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/ko-kr/type/estp-mr</loc>
