@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mbti-type.pages.dev/de/type/istj</loc>
-    <lastmod>2026-06-15</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/de/type/infp</loc>
     <lastmod>2026-06-15</lastmod>
   </url>
@@ -318,6 +314,10 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/de/type/entj-mr</loc>
+    <lastmod>2026-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/de/type/istj</loc>
     <lastmod>2026-06-15</lastmod>
   </url>
   <url>
@@ -1921,10 +1921,6 @@
     <lastmod>2026-06-15</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/ko-kr/type/istj</loc>
-    <lastmod>2026-06-15</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/ko-kr/type/istj-dr</loc>
     <lastmod>2026-06-15</lastmod>
   </url>
@@ -2238,6 +2234,10 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/ko-kr/type/isfp-dv</loc>
+    <lastmod>2026-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/ko-kr/type/istj</loc>
     <lastmod>2026-06-15</lastmod>
   </url>
   <url>
@@ -3201,10 +3201,6 @@
     <lastmod>2026-06-15</lastmod>
   </url>
   <url>
-    <loc>https://mbti-type.pages.dev/zh-hk/type/entp</loc>
-    <lastmod>2026-06-15</lastmod>
-  </url>
-  <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/entj-dr</loc>
     <lastmod>2026-06-15</lastmod>
   </url>
@@ -3518,6 +3514,10 @@
   </url>
   <url>
     <loc>https://mbti-type.pages.dev/zh-hk/type/istj-mv</loc>
+    <lastmod>2026-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://mbti-type.pages.dev/zh-hk/type/entp</loc>
     <lastmod>2026-06-15</lastmod>
   </url>
 </urlset>
